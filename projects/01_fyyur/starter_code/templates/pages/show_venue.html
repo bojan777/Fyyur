@@ -75,5 +75,9 @@
 	</div>
 </section>
 
+	<form>
+		<input type="submit" value="Delete Venue" class="btn btn-warning btn-sm" formmethod="POST" formaction="{{ url_for('delete_venue', venue_id=venue.id) }}">
+	</form>
+
 {% endblock %}
 
