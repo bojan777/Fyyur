@@ -1,0 +1,4 @@
+ id | name | city | state | phone | website | image_link | facebook_link | seeking_venue | seeking_description | upcoming_shows_count | past_shows_count 
+----+------+------+-------+-------+---------+------------+---------------+---------------+---------------------+----------------------+------------------
+(0 rows)
+
